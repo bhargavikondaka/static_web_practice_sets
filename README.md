@@ -1,4 +1,5 @@
-🌐 My Static Web Practice Journey
+#🌐 My Static Web Practice Journey
+
 Hi there! 👋 I'm Bhargavi, and this is my personal practice repository where I upload my daily coding practice as I learn to build websites from scratch!
 I'm just a beginner who loves learning — and I believe practice every day is the only secret to getting better! 💪
 
