@@ -1,4 +1,4 @@
-# Food Ordering Page
+# Food Ordering Page 🍚🍜
 A simple and responsive food ordering web application built with HTML, CSS, Bootstrap.
 
 ### Features
