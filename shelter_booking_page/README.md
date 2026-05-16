@@ -9,9 +9,9 @@ A beautiful static website showcasing luxury vacation rentals and resort accommo
 
   
 ## Project Structure
-├── index.html
-├── styles.css
-|readme.file
+- ├── index.html
+- ├── styles.css
+- readme.file
 
 
 ## License
