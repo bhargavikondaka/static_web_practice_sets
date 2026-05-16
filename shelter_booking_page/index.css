@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://getwallpapers.com/wallpaper/full/3/2/6/176760.jpg");
+    height: 100vh;
+    background-size: cover;
+
+
+
+}
+
+
+.mcard {
+
+    background-color: #000000e6;
+    color: #ffffff;
+    font-family: "bree serief";
+    margin: 5vh;
+    border-radius: 3vh;
+    padding: 2vh;
+    background-size: cover;
+
+}
+
+.htl-name {
+    font-weight: bold;
+    font-size: 4vh;
+
+}
+
+.loc {
+    font-size: 2vh;
+    font-weight: normal;
+    font-family: "roboto";
+}
+
+.price {
+    font-weight: bold;
+    font-size: 4vh;
+
+}
+
+.button {
+    color: black;
+    background-color: #ffffff;
+    height: 7vh;
+    width: 20vh;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 15px;
+    padding: 1vh;
+    margin: 2vh;
+    text-align: center;
+}
