@@ -1,0 +1,10 @@
+doctores_image "https://static.vecteezy.com/system/resources/thumbnails/002/127/173/small_2x/medicine-and-healthcare-concept-illustration-male-and-female-doctor-character-medical-service-can-use-for-homepage-mobile-apps-web-banner-character-cartoon-illustration-flat-style-free-vector.jpg"
+
+covid_logo: "https://media.istockphoto.com/vectors/coronavirus-covid19-outbreak-virus-image-covid-19-logo-with-virus-vector-id1211614741?k=20&m=1211614741&s=170667a&w=0&h=VF8_9CIp6TTj8KjO8dPvZwue9I4nvYQpOdqNcR0QzuQ="
+
+symptoms  
+1 - cough : "https://static.vecteezy.com/system/resources/previews/001/254/216/original/a-young-sick-man-coughing-with-covid-19-symptoms-vector.jpg"
+2 - fever : " https://static.vecteezy.com/system/resources/previews/012/595/201/non_2x/illustration-of-sick-person-with-fever-using-blanket-and-thermometer-in-mouth-free-vector.jpg"
+3 - headache  :  "https://png.pngtree.com/png-vector/20241229/ourlarge/pngtree-a-cartoon-boy-suffer-from-fever-vector-design-png-image_14975633.png"
+
+doctor: "https://png.pngtree.com/png-vector/20241123/ourlarge/pngtree-male-doctor-consults-patient-and-consultation-for-treatment-flat-illustration-clipart-png-image_14547982.png"

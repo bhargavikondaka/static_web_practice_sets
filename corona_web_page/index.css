@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: white;
+    border-color: #0967d219;
+    border-width: 1vh;
+    background-size: cover;
+}
+
+.top-section {
+    height: 20vh;
+    width: 50vh;
+    padding: 3vh;
+}
+
+.top-heading {
+    font-size: 19px;
+    font-style: normal;
+    padding: 1vh;
+    font-weight: 500;
+}
+
+.top-button {
+    height: 5vh;
+    width: 15vh;
+    font-size: 2vh;
+    padding: 5px;
+    border-radius: 6px;
+}
+
+.top-image {
+    height: 200px;
+    width: 240px;
+    padding: 2vh;
+}
+
+.covid-card {
+    font-family: "roboto";
+
+    background-color: #0967d219;
+    height: 20vh;
+    width: 75vh;
+    padding: 2vh;
+    margin: 3vh;
+    border-radius: 9px;
+    background-size: cover;
+}
+
+.card-image {
+    height: 100%;
+    width: 50%;
+
+}
+
+.card-info {
+    color: #323f4b;
+    font-family: "roboto";
+    padding: 2vh;
+
+
+}
+
+.card-heading {
+    font-size: 3vh;
+    font-weight: 500;
+
+
+}
+
+.card-disc {
+    font-size: 15px;
+}
+
+.symptoms {
+    padding: 2vh;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "roboto";
+}
+
+.symptom-card {
+    height: 19vh;
+    width: 19vh;
+    background-color: #3ebd93;
+    margin: 2vh;
+    border-radius: 2vh;
+    text-align: center;
+    padding: 1vh;
+    color: white;
+    font-size: 11px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.symptom-card-c1 {
+    background-color: #e668a7;
+}
+
+.symptom-card-c2 {
+    background-color: #a368fc;
+}
+
+.image {
+    height: 10vh;
+    width: 10vh;
+}
+
+.video-card {
+    height: 28vh;
+    width: 90vh;
+    background-color: #e12d3919;
+    border-radius: 3vh;
+    margin: 2vh;
+    padding: 2vh;
+    color: #707070;
+    font-weight: 500;
+}
+
+.docimage {
+    height:100%;
+    width:40%;
+    padding: 3vh;
+}
+
+.vid-head {
+    font-size: 3vh;
+    font-weight: bold;
+    color: #323f4b;
+
+}
+
+.but {
+    height: 5vh;
+    width: 18vh;
+    padding: 0vh;
+    text-align: center;
+    font-size: 13px;
+    background-color: #0967d2;
+    border-radius: 5px;
+}
