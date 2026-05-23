@@ -23,5 +23,5 @@ If you are just starting out like me — here's what I want to tell you:
 $ 📬 Connect with Me
 
 - 🔗 LinkedIn : https://linkedin.com/in/bhargavi-kondaka/
-- 💻 GitHub : https://bhargavikondaka.github.io/My_Portfolio/
-- 📧 kondakabhargavi15@gmail.com
+- 💻 GitHub   : https://bhargavikondaka.github.io/My_Portfolio/
+- 📧  Gmail   : kondakabhargavi15@gmail.com
