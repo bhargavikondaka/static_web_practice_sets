@@ -130,6 +130,8 @@ npx serve .
 
 mobile_phone_image : "https://storage.googleapis.com/lmo/2017/11/5e1490bb-iphone-x-wooden-table-test-drive.jpg"
 
+---
+
 ## 📖 Learning Resources
 
 | Topic | Link |
