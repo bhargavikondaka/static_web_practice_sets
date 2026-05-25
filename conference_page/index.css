@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.conference {
+    padding: 10px;
+}
+
+.image {
+    
+   height:500px;
+   width:700px;
+    background-size: cover;
+}
+
+.padding {
+    padding: 10px;
+}
+
+.heading {
+    color: #183b56;
+    font-family: "roboto";
+    font-size: 6vh;
+    font-weight: bold;
+    text-align: center;
+    padding: 12px;
+}
+
+.heading-2 {
+    color: #183b56;
+    font-family: "roboto";
+    font-size: 4vh;
+    font-weight: bold;
+    text-align: center;
+    padding: 12px;
+}
+
+.para {
+    color: #5a7184;
+    text-align: center;
+    font-family: "roboto";
+
+}
+
+.button {
+    text-align: center;
+}
+
+.card-s {
+    height: 15vh;
+    width: 20vh;
+    padding: 10px;
+
+}
+
+.card-head {
+    color: #183b56;
+    font-family: "roboto";
+    font-size: 5vh;
+    font-weight: bold;
+    text-align: center;
+    PADDing: 2px;
+    height: 5vh;
+    width: 20vh;
+}
