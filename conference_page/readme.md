@@ -1,4 +1,4 @@
-# 📡 The Things Conference — IoT Web Page
+# 📡 The Conference —  Web Page
 
 A two-section interactive conference page for **The Things Conference** built with **HTML, CSS, and Bootstrap 4**. Clicking "Know More" reveals a YouTube video, stats, and a back button — powered by the CCBP UI Kit's `display()` function.
 
