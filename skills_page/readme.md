@@ -84,14 +84,6 @@ Simply open `index.html` in any modern web browser — no build tools or server 
 
 ---
 
-## 🐛 Known Issues & Fixes
-
-| Issue | Fix |
-|---|---|
-| `.cousre-name` typo in HTML | Rename to `.course-name` to match CSS |
-| Missing space in `class="cousre-nametext-capitalize"` on HTML5 card | Change to `class="course-name text-capitalize"` |
-
----
 
 ## 📌 Notes
 
