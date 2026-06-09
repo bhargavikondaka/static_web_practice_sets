@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.homepage-bg {
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20221228/pngtree-mountain-peak-background-illustration-mountain-green-mountain-towering-peak-image_1500128.jpg");
+    background-size: cover;
+    text-align: center;
+    height: 100vh;
+
+}
+
+.homepage-girl {
+    height: 35vh;
+    width: 30vh;
+    margin-top: 25vh;
+
+}
+
+.homepage-heading {
+    color: #213fa1;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bolder;
+    margin: 5vh;
+
+}
+
+.homepage-para {
+    color: #323f4b;
+    font-size: 3vh;
+    font-family: "Roboto";
+
+}
+
+.start-btn {
+    background-color: #0d205f;
+    color: #fad693;
+    margin: 2vh;
+    height: 6vh;
+    width: 15vh;
+    font-size: 10px;
+    font-weight:bold;
+    border-radius: 12px;
+
+}
+
+.yoga-type-bg {
+    background-color: #c3f4c5;
+
+    background-size: cover;
+
+}
+
+.girl-without-headsets {
+    height: 30vh;
+    width: 30vh;
+    margin-top: 5vh;
+}
+
+.types-haeding {
+    color: #132d84;
+    font-size: 4vh;
+    margin: 3vh;
+    font-family: "Roboto";
+}
+
+.yoga-card {
+    background-color: #ffe2ab;
+    height: 20vh;
+    border-radius: 12px;
+    margin: 1vh;
+    background-size: cover;
+}
+
+.card-image {
+    height: 17vh;
+    width: 17vh;
+    margin: 2vh;
+}
+
+.yoga-name {
+    color: #253263;
+    font-size: 16px;
+    font-weight: 200;
+    font-family: "Roboto";
+
+}
+
+.yoga-desc {
+    color: #253263;
+    font-size: 12px;
+    font-family: "Roboto";
+
+
+}
+
+@media (min-width: 768px) {
+    .homepage-bg {
+        background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20241203/pngtree-serene-purple-mountain-majesty-image_16732141.jpg");
+        background-size: cover;
+        text-align: center;
+        height: 100vh;
+    }
+    .homepage-para{
+        color:#ffffff;
+    }
+}
